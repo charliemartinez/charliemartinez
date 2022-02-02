@@ -1,5 +1,5 @@
 ### Hola mundo 👋
 
-Soy la persona detrás de [http://github.com/quirinux-so](http://github.com/quirinux-so). <br>
-¡La verdad es que todos mis programas están ahí!<br>
-De todas formas, de vez en cuando utilizo este repositorio para probar cosas. 
+:eyes: Soy la persona detrás de [https://github.com/quirinux-so](https://github.com/quirinux-so). <br>
+:loudspeaker: La mayoría de los programas que empiezo aquí luego pasan a formar parte de [Quirinux](https://www.quirinux.org).<br>
+También utilizo este repositorio para hacer pruebas. :warning:

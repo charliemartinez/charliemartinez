@@ -1,20 +1,10 @@
-### Hola mundo 👋 Hello word
+## 👋 Hola mundo | Hello world
 
-:eyes: Soy la persona detrás de [https://github.com/quirinux-so](https://github.com/quirinux-so). <br>
-:loudspeaker: La mayoría de los programas que empiezo aquí luego pasan a formar parte de [Quirinux™ GNU/Linux ✨💜](https://www.quirinux.org).<br>
-También utilizo este repositorio para hacer pruebas. :warning:
-
-#### ¿Sabías qué? 🤔💡
-**Quirinux no usa SystemD** para mantener un sistema más ligero y simple ⚡,<br> 
-optimizado para funcionar mejor en equipos de bajos recursos 💻🪶.
-______
-
-👀 I am the person behind https://github.com/quirinux-so.<br>
-📢 Most of the programs I start here later become part of [Quirinux™ GNU/Linux ✨💜](https://www.quirinux.org).<br>
-I also use this repository for testing. ⚠️
-
-#### Did you know? 🤔💡
-**Quirinux does not use SystemD** to keep the system lighter and simpler ⚡, <br>
-optimized to run better on low-resource computers 💻🪶.
-
-
+| 🇪🇸 Español | 🇬🇧 English |
+|-------------|-------------|
+| 👀 Soy la persona detrás de <https://github.com/quirinux-so> | 👀 I am the person behind <https://github.com/quirinux-so> |
+| 📢 La mayoría de los programas que comienzo aquí luego pasan a formar parte de **[Quirinux™ GNU/Linux ✨💜](https://www.quirinux.org)** | 📢 Most of the programs I start here later become part of **[Quirinux™ GNU/Linux ✨💜](https://www.quirinux.org)** |
+| 🧪 También utilizo este repositorio para hacer pruebas. | 🧪 I also use this repository for testing. |
+| | |
+| 🤔 **¿Sabías que?** | 🤔 **Did you know?** |
+| ⚡ **Quirinux no usa SystemD** para mantener un sistema más ligero y simple, optimizado para funcionar mejor en equipos de bajos recursos 💻🪶. | ⚡ **Quirinux does not use SystemD** to keep the system lighter and simpler, optimized to run better on low-resource computers 💻🪶. |
